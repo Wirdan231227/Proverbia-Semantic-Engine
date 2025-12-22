@@ -1,0 +1,501 @@
+﻿Proverb_ID,Proverb_Text,Language,Region,Theme,Sub-Theme,Meaning,Source
+P001,A bird in the hand is worth two in the bush,English,Europe,Wisdom,Practicality,It's better to have a sure thing than to risk it for something uncertain,English Proverb
+P002,Actions speak louder than words,English,North America,Integrity,Authenticity,What people do is more important than what they say,American Proverb
+P003,The early bird catches the worm,English,North America,Success,Diligence,Those who start early or act promptly have the best chance of success,American Proverb
+P004,Don't count your chickens before they hatch,English,Europe,Caution,Patience,Don't make plans based on events that haven't happened yet,English Proverb
+P005,When in Rome do as the Romans do,English,Europe,Adaptation,Cultural Awareness,Adapt to the customs of the places you visit,English Proverb
+P006,All that glitters is not gold,English,Europe,Wisdom,Discernment,Appearances can be deceiving; not everything that looks valuable is valuable,English Proverb
+P007,Better late than never,English,Europe,Perseverance,Timeliness,It's better to do something late than not do it at all,English Proverb
+P008,Don't put all your eggs in one basket,English,North America,Risk Management,Diversification,Don't risk everything on a single venture; spread your risks,American Proverb
+P009,Every cloud has a silver lining,English,Europe,Hope,Optimism,There is something good in every bad situation,English Proverb
+P010,Fortune favors the bold,Latin,Ancient Rome,Courage,Risk-Taking,Those who are brave and take risks are more likely to be successful,Latin Proverb
+P011,Honesty is the best policy,English,Europe,Integrity,Truthfulness,Being truthful is always the best approach in the long run,English Proverb
+P012,If you can't beat them join them,English,North America,Pragmatism,Adaptation,If you cannot defeat your opponents it's sometimes better to ally with them,American Proverb
+P013,It takes two to tango,English,North America,Relationships,Cooperation,Both parties in a situation are responsible for what happens,American Proverb
+P014,Knowledge is power,English,Europe,Education,Learning,Having knowledge gives you influence and control,English Proverb
+P015,Look before you leap,English,Europe,Caution,Planning,Think carefully before taking action,English Proverb
+P016,Money doesn't grow on trees,English,North America,Financial Wisdom,Frugality,Money is limited and must be earned through work,American Proverb
+P017,No pain no gain,English,North America,Success,Hard Work,You must work hard and make sacrifices to achieve your goals,American Proverb
+P018,Practice makes perfect,English,Europe,Skill Development,Improvement,Repeated practice leads to mastery,English Proverb
+P019,Rome wasn't built in a day,Latin,Ancient Rome,Patience,Time,Important work takes time and cannot be rushed,Latin Proverb
+P020,The pen is mightier than the sword,English,Europe,Power,Communication,Ideas and communication are more powerful than violence,English Proverb
+P021,There's no place like home,English,North America,Home,Comfort,Home is the most comfortable and welcoming place,American Proverb
+P022,Time is money,English,North America,Productivity,Efficiency,Time is a valuable resource and should not be wasted,American Proverb
+P023,Two heads are better than one,English,Europe,Collaboration,Teamwork,Working together produces better results than working alone,English Proverb
+P024,You can't judge a book by its cover,English,North America,Wisdom,Appearances,You shouldn't form opinions based on outward appearance alone,American Proverb
+P025,You reap what you sow,English,Europe,Karma,Consequences,Your actions determine the results you get,English Proverb
+P026,A stitch in time saves nine,English,Europe,Prevention,Timeliness,Dealing with problems early prevents them from becoming bigger,English Proverb
+P027,Absence makes the heart grow fonder,English,Europe,Love,Distance,Being apart from someone increases your affection for them,English Proverb
+P028,Beggars can't be choosers,English,Europe,Gratitude,Humility,Those in need should be grateful for what they receive,English Proverb
+P029,Blood is thicker than water,English,Europe,Family,Loyalty,Family relationships are stronger than other relationships,English Proverb
+P030,Curiosity killed the cat,English,Europe,Caution,Restraint,Being too inquisitive or nosy can lead to trouble,English Proverb
+P031,Don't bite the hand that feeds you,English,Europe,Gratitude,Respect,Don't harm those who help or support you,English Proverb
+P032,Easy come easy go,English,North America,Value,Appreciation,Things acquired without effort are lost just as easily,American Proverb
+P033,God helps those who help themselves,English,Europe,Self-Reliance,Initiative,You must take action yourself not just wait for divine help,English Proverb
+P034,Haste makes waste,English,Europe,Patience,Carefulness,Doing things too quickly leads to mistakes and waste,English Proverb
+P035,Laughter is the best medicine,English,Europe,Health,Happiness,Humor and joy promote healing and wellbeing,English Proverb
+P036,Let sleeping dogs lie,English,Europe,Wisdom,Avoidance,Don't interfere with a situation that could cause trouble,English Proverb
+P037,Necessity is the mother of invention,English,Europe,Innovation,Creativity,Need and difficulty inspire creative solutions,English Proverb
+P038,Out of sight out of mind,English,Europe,Memory,Distance,What you don't see regularly is easily forgotten,English Proverb
+P039,The grass is always greener on the other side,English,Europe,Contentment,Perspective,Other people's situations always seem better than your own,English Proverb
+P040,Where there's smoke there's fire,English,Europe,Truth,Evidence,Rumors or signs usually indicate some underlying truth,English Proverb
+P041,You can lead a horse to water but you can't make it drink,English,Europe,Free Will,Choice,You can provide opportunities but cannot force people to take them,English Proverb
+P042,A penny saved is a penny earned,English,North America,Financial Wisdom,Saving,Saving money is as valuable as earning it,American Proverb
+P043,Don't cry over spilled milk,English,North America,Acceptance,Moving On,Don't waste time lamenting past mistakes that cannot be changed,American Proverb
+P044,Strike while the iron is hot,English,Europe,Opportunity,Timing,Take advantage of favorable circumstances immediately,English Proverb
+P045,The apple doesn't fall far from the tree,English,Europe,Family,Heredity,Children often resemble their parents in character or behavior,English Proverb
+P046,Too many cooks spoil the broth,English,Europe,Leadership,Efficiency,Too many people involved in a task can ruin it,English Proverb
+P047,What goes around comes around,English,North America,Karma,Justice,Your actions good or bad will eventually return to you,American Proverb
+P048,A friend in need is a friend indeed,English,Europe,Friendship,Loyalty,True friends are those who help in difficult times,English Proverb
+P049,He who laughs last laughs best,English,Europe,Victory,Patience,The person who ultimately succeeds has the last and best laugh,English Proverb
+P050,A journey of a thousand miles begins with a single step,Chinese,Asia,Beginning,Progress,Great achievements start with small initial actions,Chinese Proverb
+P051,When the winds of change blow some build walls others build windmills,Chinese,Asia,Adaptation,Innovation,People respond to change differently; some resist while others embrace it,Chinese Proverb
+P052,Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime,Chinese,Asia,Education,Self-Sufficiency,Teaching skills is better than providing temporary help,Chinese Proverb
+P053,The best time to plant a tree was twenty years ago; the second best time is now,Chinese,Asia,Action,Timing,It's never too late to start something beneficial,Chinese Proverb
+P054,A diamond with a flaw is worth more than a pebble without imperfections,Chinese,Asia,Value,Quality,Something valuable with minor flaws exceeds something worthless that's perfect,Chinese Proverb
+P055,Fall seven times stand up eight,Japanese,Asia,Resilience,Perseverance,Always get back up after failure no matter how many times you fall,Japanese Proverb
+P056,The nail that sticks out gets hammered down,Japanese,Asia,Conformity,Society,Those who are different or stand out attract criticism or punishment,Japanese Proverb
+P057,Even monkeys fall from trees,Japanese,Asia,Humility,Mistakes,Even experts and skilled people make mistakes,Japanese Proverb
+P058,Vision without action is a daydream; action without vision is a nightmare,Japanese,Asia,Planning,Balance,Both vision and action are necessary for success,Japanese Proverb
+P059,One kind word can warm three winter months,Japanese,Asia,Kindness,Impact,Small acts of kindness have lasting positive effects,Japanese Proverb
+P060,Patience is bitter but its fruit is sweet,Persian,Middle East,Patience,Reward,Practicing patience is difficult but leads to rewarding outcomes,Persian Proverb
+P061,A book is like a garden carried in the pocket,Arabic,Middle East,Knowledge,Learning,Books contain worlds of knowledge accessible anywhere,Arabic Proverb
+P062,The dogs bark but the caravan moves on,Arabic,Middle East,Perseverance,Criticism,Don't let critics stop your progress,Arabic Proverb
+P063,He who has health has hope and he who has hope has everything,Arabic,Middle East,Health,Optimism,Health enables all life's possibilities,Arabic Proverb
+P064,Write the bad things done to you in sand but write the good things in stone,Arabic,Middle East,Forgiveness,Gratitude,Remember kindnesses forget wrongs,Arabic Proverb
+P065,The fruit of silence is tranquility,Arabic,Middle East,Peace,Quietness,Keeping silent brings inner peace,Arabic Proverb
+P066,A thousand friends are too few one enemy is too many,Turkish,Middle East,Relationships,Friendship,You can never have too many friends but even one enemy is problematic,Turkish Proverb
+P067,He who digs a pit for others will fall into it himself,Turkish,Middle East,Karma,Consequences,Harm intended for others will backfire on you,Turkish Proverb
+P068,Coffee should be black as hell strong as death and sweet as love,Turkish,Middle East,Culture,Enjoyment,Description of the ideal Turkish coffee,Turkish Proverb
+P069,Not every sweet root gives birth to sweet grass,Persian,Middle East,Family,Expectations,Good parents may have difficult children,Persian Proverb
+P070,A narrow space looks wide to the narrow-minded,Persian,Middle East,Perspective,Mindset,Limited thinking sees everything as limited,Persian Proverb
+P071,Until lions have their historians tales of the hunt shall always glorify the hunter,African,Africa,Power,Narrative,History is written by those in power,African Proverb
+P072,If you want to go fast go alone; if you want to go far go together,African,Africa,Collaboration,Success,Individual effort brings quick results but teamwork achieves lasting success,African Proverb
+P073,Smooth seas do not make skillful sailors,African,Africa,Challenge,Growth,Difficulties and challenges develop abilities and skills,African Proverb
+P074,The child who is not embraced by the village will burn it down to feel its warmth,African,Africa,Community,Belonging,Those rejected by their community may become destructive,African Proverb
+P075,When there is no enemy within the enemies outside cannot hurt you,African,Africa,Inner Strength,Peace,Internal peace protects you from external threats,African Proverb
+P076,However long the night the dawn will break,African,Africa,Hope,Perseverance,Difficult times will eventually end,African Proverb
+P077,A tree is known by its fruit,Biblical,Middle East,Character,Actions,People are judged by their deeds not their words,Biblical Proverb
+P078,Pride goes before destruction,Biblical,Middle East,Humility,Warning,Arrogance and excessive pride lead to downfall,Biblical Proverb
+P079,The love of money is the root of all evil,Biblical,Middle East,Morality,Greed,Excessive desire for wealth causes many problems,Biblical Proverb
+P080,Do unto others as you would have them do unto you,Biblical,Middle East,Ethics,Reciprocity,Treat others the way you wish to be treated,Biblical Proverb
+P081,The truth will set you free,Biblical,Middle East,Truth,Freedom,Honesty and truth bring liberation,Biblical Proverb
+P082,He who is without sin cast the first stone,Biblical,Middle East,Judgment,Humility,Don't judge others when you have faults yourself,Biblical Proverb
+P083,Who much embraces little squeezes,Spanish,Europe,Focus,Efficiency,Those who try to do too much accomplish little,Spanish Proverb
+P084,There is no bad from which good does not come,Spanish,Europe,Hope,Optimism,Every negative situation brings some positive outcome,Spanish Proverb
+P085,"If you want to know the road ahead, ask those coming back",Mandarin,East Asian,Wisdom,Mentorship,Seek advice from those who have already experienced what you are facing,Chinese Proverb
+P086,To a gifted horse don't look at its teeth,Spanish,Europe,Gratitude,Appreciation,Don't criticize or scrutinize a gift,Spanish Proverb
+P087,Tell me with whom you walk and I'll tell you who you are,Spanish,Europe,Relationships,Influence,You're known and influenced by the company you keep,Spanish Proverb
+P088,In closed mouth flies don't enter,Spanish,Europe,Wisdom,Discretion,Keeping quiet prevents trouble,Spanish Proverb
+P089,The habit doesn't make the monk,Spanish,Europe,Character,Appearance,Clothes and appearance don't define a person's character,Spanish Proverb
+P090,Who sows winds reaps storms,Spanish,Europe,Consequences,Karma,Negative actions lead to worse outcomes,Spanish Proverb
+P091,He who goes slowly goes safely and goes far,Italian,Europe,Patience,Carefulness,Going slowly and carefully leads to long-term success,Italian Proverb
+P092,Appetite comes with eating,Italian,Europe,Desire,Growth,Doing something increases your desire to do more of it,Italian Proverb
+P093,Between saying and doing there is a long way,Italian,Europe,Action,Commitment,There's a big difference between talking and actually doing something,Italian Proverb
+P094,Who sleeps doesn't catch fish,Italian,Europe,Action,Effort,You must be active and work to achieve results,Italian Proverb
+P095,Not to have all cups in the cupboard,German,Europe,Mental State,Sanity,To be crazy or not thinking clearly,German Proverb
+P096,Morning hour has gold in its mouth,German,Europe,Time,Productivity,Early morning is the most valuable and productive time,German Proverb
+P097,Who digs a pit for others falls into it himself,German,Europe,Karma,Justice,Those who try to harm others end up harming themselves,German Proverb
+P098,All beginning is difficult,German,Europe,Challenge,Starting,Starting something new is always the hardest part,German Proverb
+P099,"Where there is a will, there is a way",English,Europe,Determination,Persistence,Commitment leads to finding a solution to any problem,Traditional Proverb
+P100,Little by little the bird builds its nest,French,Europe,Perseverance,Progress,Small consistent efforts lead to completion,French Proverb
+P101,Who risks nothing has nothing,French,Europe,Risk,Reward,You must take risks to gain rewards,French Proverb
+P102,To want is to be able,French,Europe,Determination,Willpower,Where there's a will there's a way,French Proverb
+P103,You can't make an omelet without breaking eggs,French,Europe,Progress,Sacrifice,Achievement requires some destruction or cost,French Proverb
+P104,The more things change the more they stay the same,French,Europe,Change,Constancy,Despite surface changes fundamental things remain the same,French Proverb
+P105,Seize the day,Latin,Ancient Rome,Action,Present,Make the most of the present moment,Latin Proverb
+P106,In wine there is truth,Latin,Ancient Rome,Truth,Honesty,People speak more honestly when intoxicated,Latin Proverb
+P107,Time flies,Latin,Ancient Rome,Time,Passage,Time passes quickly,Latin Proverb
+P108,I came I saw I conquered,Latin,Ancient Rome,Success,Victory,Statement of swift and complete victory,Latin Proverb
+P109,There is no accounting for taste,Latin,Ancient Rome,Preference,Diversity,People's tastes and preferences vary inexplicably,Latin Proverb
+P110,To each his own,Latin,Ancient Rome,Individuality,Preference,Everyone has different tastes and that's acceptable,Latin Proverb
+P111,What doesn't kill you makes you stronger,German,Europe,Resilience,Growth,Surviving hardship builds character and strength,German Proverb
+P112,Still waters run deep,English,Europe,Character,Depth,Quiet people often have profound thoughts and feelings,English Proverb
+P113,The devil is in the details,English,Europe,Attention,Carefulness,Small things can cause significant problems,English Proverb
+P114,A watched pot never boils,English,Europe,Patience,Time,Waiting and watching makes time seem to pass more slowly,English Proverb
+P115,Better the devil you know than the devil you don't,English,Europe,Risk,Familiarity,Known problems are preferable to unknown ones,English Proverb
+P116,Fool me once shame on you fool me twice shame on me,English,North America,Learning,Accountability,Being deceived twice is your own fault,American Proverb
+P117,A leopard can't change its spots,English,Europe,Character,Permanence,People's fundamental nature cannot change,English Proverb
+P118,Don't throw the baby out with the bathwater,German,Europe,Wisdom,Discernment,Don't discard something valuable while eliminating waste,German Proverb
+P119,The road to hell is paved with good intentions,English,Europe,Actions,Consequences,Good intentions without action are worthless or harmful,English Proverb
+P120,A chain is only as strong as its weakest link,English,Europe,Teamwork,Weakness,A group's strength depends on its weakest member,English Proverb
+P121,Birds of a feather flock together,English,Europe,Relationships,Similarity,Similar people naturally associate with each other,English Proverb
+P122,Don't put the cart before the horse,English,Europe,Logic,Order,Do things in the proper sequence,English Proverb
+P123,Every dog has its day,English,Europe,Justice,Opportunity,Everyone gets their chance at success eventually,English Proverb
+P124,Great minds think alike,English,Europe,Intelligence,Agreement,Intelligent people often reach similar conclusions,English Proverb
+P125,Kill two birds with one stone,English,Europe,Efficiency,Achievement,Accomplish two things with a single action,English Proverb
+P126,Let bygones be bygones,English,Europe,Forgiveness,Past,Forget and forgive past conflicts,English Proverb
+P127,Make hay while the sun shines,English,Europe,Opportunity,Timing,Take advantage of good conditions while they last,English Proverb
+P128,Never look a gift horse in the mouth,English,Europe,Gratitude,Appreciation,Don't question or criticize the value of a gift,English Proverb
+P129,Once bitten twice shy,English,Europe,Caution,Experience,Bad experiences make you cautious about similar situations,English Proverb
+P130,People who live in glass houses shouldn't throw stones,English,Europe,Hypocrisy,Criticism,Don't criticize others when you have similar faults,English Proverb
+P131,The squeaky wheel gets the grease,English,North America,Advocacy,Attention,Those who complain or speak up get attention and help,American Proverb
+P132,There's many a slip between cup and lip,English,Europe,Caution,Uncertainty,Things can go wrong at the last moment,English Proverb
+P133,When the cat's away the mice will play,English,Europe,Discipline,Supervision,People misbehave when authority figures are absent,English Proverb
+P134,You can't teach an old dog new tricks,English,Europe,Change,Rigidity,Older people or those set in their ways resist learning new things,English Proverb
+P135,A bad workman blames his tools,English,Europe,Responsibility,Excuses,Incompetent people blame external factors for their failures,English Proverb
+P136,A fool and his money are soon parted,English,Europe,Financial Wisdom,Foolishness,Foolish people waste money quickly,English Proverb
+P137,A house divided against itself cannot stand,Biblical,Middle East,Unity,Strength,Internal conflict will destroy any group or organization,Biblical Proverb
+P138,A problem shared is a problem halved,English,Europe,Support,Sharing,Discussing problems with others reduces their burden,English Proverb
+P139,A soft answer turns away wrath,Biblical,Middle East,Communication,Peace,Gentle responses defuse anger and conflict,Biblical Proverb
+P140,Adversity makes strange bedfellows,English,Europe,Cooperation,Necessity,Difficult times create unlikely partnerships,English Proverb
+P141,All good things come to those who wait,English,Europe,Patience,Reward,Patience brings positive outcomes,English Proverb
+P142,All roads lead to Rome,Latin,Ancient Rome,Journey,Destination,Many different paths can lead to the same goal,Latin Proverb
+P143,All work and no play makes Jack a dull boy,English,Europe,Balance,Recreation,Life needs balance between work and leisure,English Proverb
+P144,An apple a day keeps the doctor away,English,Europe,Health,Prevention,Good daily habits prevent illness,English Proverb
+P145,An idle mind is the devil's workshop,English,Europe,Productivity,Idleness,Lack of activity leads to trouble and bad thoughts,English Proverb
+P146,April showers bring May flowers,English,North America,Hope,Seasons,Difficult or unpleasant times lead to better times,American Proverb
+P147,As you make your bed so you must lie in it,English,Europe,Responsibility,Consequences,You must accept the results of your own actions,English Proverb
+P148,Ask no questions and hear no lies,English,Europe,Ignorance,Truth,Not asking prevents hearing unpleasant or false information,English Proverb
+P149,Attack is the best form of defense,English,Europe,Strategy,Aggression,Taking initiative provides strategic advantage,English Proverb
+P150,Beauty is in the eye of the beholder,English,Europe,Perspective,Subjectivity,Beauty is subjective and varies by person,English Proverb
+P151,Beauty is only skin deep,English,Europe,Character,Appearance,Physical appearance doesn't reflect inner qualities,English Proverb
+P152,Behind every great man there's a great woman,English,North America,Partnership,Support,Successful people often have supportive partners,American Proverb
+P153,Better safe than sorry,English,Europe,Caution,Prevention,Taking precautions prevents future regret,English Proverb
+P154,Better to remain silent and be thought a fool than to speak and remove all doubt,English,North America,Wisdom,Silence,Speaking foolishly confirms stupidity while silence maintains doubt,American Proverb
+P155,Between a rock and a hard place,English,North America,Difficulty,Choice,Facing two equally difficult or unpleasant options,American Proverb
+P156,Big fish eat little fish,English,Europe,Power,Competition,The powerful dominate and consume the weak,English Proverb
+P157,Brevity is the soul of wit,English,Europe,Communication,Conciseness,Being concise and brief shows intelligence and humor,English Proverb
+P158,Charity begins at home,English,Europe,Family,Priority,Take care of your own family before helping others,English Proverb
+P159,Cleanliness is next to godliness,English,Europe,Hygiene,Virtue,Being clean is a virtue close to being holy,English Proverb
+P160,Clothes make the man,English,Europe,Appearance,Presentation,How you dress influences how others perceive you,English Proverb
+P161,Dead men tell no tales,English,Europe,Secrets,Death,The dead cannot reveal secrets,English Proverb
+P162,Distance makes the heart grow fonder,English,Europe,Love,Separation,Being apart increases affection and appreciation,English Proverb
+P163,Don't bite off more than you can chew,English,North America,Limits,Caution,Don't take on more than you can handle,American Proverb
+P164,Don't burn your bridges,English,North America,Relationships,Foresight,Maintain relationships as you may need them later,American Proverb
+P165,Don't cast pearls before swine,Biblical,Middle East,Value,Appreciation,Don't offer valuable things to those who can't appreciate them,Biblical Proverb
+P166,Don't cross the bridge till you come to it,English,Europe,Worry,Present,Don't worry about future problems before they occur,English Proverb
+P167,Don't make a mountain out of a molehill,English,Europe,Perspective,Proportion,Don't exaggerate the importance of small problems,English Proverb
+P168,Don't rock the boat,English,North America,Stability,Caution,Don't disturb a stable situation,American Proverb
+P169,Don't shut the stable door after the horse has bolted,English,Europe,Prevention,Timing,Take preventive action before it's too late not after,English Proverb
+P170,Don't throw good money after bad,English,Europe,Financial Wisdom,Loss,Don't continue investing in something that's already failing,English Proverb
+P171,Don't wash your dirty linen in public,English,Europe,Privacy,Dignity,Keep private family matters private,English Proverb
+P172,Empty vessels make the most noise,English,Europe,Wisdom,Ignorance,Ignorant or foolish people talk the most,English Proverb
+P173,Even a broken clock is right twice a day,English,North America,Accuracy,Chance,Even consistently wrong sources are occasionally correct by chance,American Proverb
+P174,Every man for himself,English,Europe,Survival,Selfishness,In crisis situations people prioritize their own survival,English Proverb
+P175,Every picture tells a story,English,Europe,Communication,Images,Visual representations convey meaningful narratives,English Proverb
+P176,Everything comes to him who waits,English,Europe,Patience,Time,Patient people eventually receive what they desire,English Proverb
+P177,Faint heart never won fair lady,English,Europe,Courage,Love,Timidity and lack of courage don't win affection or success,English Proverb
+P178,Familiarity breeds contempt,English,Europe,Relationships,Distance,Too much closeness or familiarity creates disrespect,English Proverb
+P179,First come first served,English,Europe,Fairness,Order,Priority and service go to those who arrive first,English Proverb
+P180,First impressions are the most lasting,English,Europe,Perception,Judgment,Initial impressions are difficult to change later,English Proverb
+P181,Fools rush in where angels fear to tread,English,Europe,Wisdom,Caution,Foolish people take dangerous risks that wise people avoid,English Proverb
+P182,Forewarned is forearmed,English,Europe,Preparation,Knowledge,Advance warning enables proper preparation,English Proverb
+P183,Forgive and forget,English,Europe,Forgiveness,Peace,Let go of past wrongs completely,English Proverb
+P184,Give credit where credit is due,English,North America,Recognition,Fairness,Acknowledge and recognize others' contributions properly,American Proverb
+P185,Give him an inch and he'll take a mile,English,Europe,Boundaries,Greed,Small concessions lead to increasingly larger demands,English Proverb
+P186,Good fences make good neighbors,English,North America,Boundaries,Relationships,Respecting boundaries maintains harmonious relationships,American Proverb
+P187,Good things come in small packages,English,North America,Value,Size,Size doesn't determine quality or value,American Proverb
+P188,Great oaks from little acorns grow,English,Europe,Growth,Potential,Great achievements have small beginnings,English Proverb
+P189,Half a loaf is better than no bread,English,Europe,Contentment,Gratitude,Having something is better than having nothing,English Proverb
+P190,Handsome is as handsome does,English,Europe,Character,Actions,True beauty comes from good deeds not physical appearance,English Proverb
+P191,He who hesitates is lost,English,Europe,Decisiveness,Action,Indecision causes missed opportunities,English Proverb
+P192,He who lives by the sword dies by the sword,Biblical,Middle East,Violence,Consequences,Those who use violence will face violence themselves,Biblical Proverb
+P193,He who pays the piper calls the tune,English,Europe,Power,Control,Those who provide resources have control over decisions,English Proverb
+P194,Hell hath no fury like a woman scorned,English,Europe,Anger,Revenge,A rejected woman's anger is extremely fierce,English Proverb
+P195,History repeats itself,English,Europe,Time,Patterns,Past events and patterns tend to recur,English Proverb
+P196,Home is where the heart is,English,Europe,Home,Love,Home is wherever your loved ones are,English Proverb
+P197,Hope springs eternal,English,Europe,Hope,Optimism,Hope never completely dies in human hearts,English Proverb
+P198,If at first you don't succeed try try again,English,Europe,Perseverance,Effort,Keep attempting after initial failures,English Proverb
+P199,If it ain't broke don't fix it,English,North America,Caution,Change,Don't alter or change what already works well,American Proverb
+P200,If the cap fits wear it,English,Europe,Self-Awareness,Criticism,If criticism applies to you accept it,English Proverb
+P201,If the mountain won't come to Muhammad Muhammad must go to the mountain,Arabic,Middle East,Adaptation,Flexibility,If circumstances won't change you must adapt yourself,Arabic Proverb
+P202,If wishes were horses beggars would ride,English,Europe,Reality,Action,Wishing alone doesn't make things happen,English Proverb
+P203,If you can't stand the heat get out of the kitchen,English,North America,Pressure,Resilience,If you can't handle pressure or difficulty then leave,American Proverb
+P204,If you lie down with dogs you'll get up with fleas,English,Europe,Associations,Consequences,Bad company causes problems and negative effects,English Proverb
+P205,If you play with fire you'll get burned,English,Europe,Risk,Consequences,Engaging in dangerous activities leads to harm,English Proverb
+P206,If you want something done ask a busy person,English,North America,Productivity,Efficiency,Busy productive people are most efficient at completing tasks,American Proverb
+P207,Ignorance is bliss,English,Europe,Knowledge,Happiness,Not knowing can sometimes be more pleasant than knowing,English Proverb
+P208,Imitation is the sincerest form of flattery,English,Europe,Influence,Admiration,Copying someone shows the highest form of respect,English Proverb
+P209,In for a penny in for a pound,English,Europe,Commitment,Thoroughness,If you start something complete it fully,English Proverb
+P210,In the kingdom of the blind the one-eyed man is king,English,Europe,Advantage,Relativity,Even minimal ability stands out where others have none,English Proverb
+P211,It never rains but it pours,English,Europe,Luck,Timing,Problems or events tend to come in groups all at once,English Proverb
+P212,It takes all sorts to make a world,English,Europe,Diversity,Acceptance,Different types of people are necessary and that's okay,English Proverb
+P213,It's a small world,English,Global,Connections,Coincidence,The world feels surprisingly interconnected,English Proverb
+P214,It's always darkest before the dawn,English,Europe,Hope,Difficulty,Things often improve dramatically after reaching their worst point,English Proverb
+P215,It's an ill wind that blows nobody any good,English,Europe,Perspective,Benefit,Almost every situation benefits someone,English Proverb
+P216,It's better to give than to receive,Biblical,Middle East,Generosity,Virtue,Giving to others is more rewarding than receiving,Biblical Proverb
+P217,It's better to have loved and lost than never to have loved at all,English,Europe,Love,Risk,Experiencing love despite pain is better than never loving,English Proverb
+P218,It's never too late to mend,English,Europe,Change,Improvement,You can always improve or change for the better,English Proverb
+P219,It's the early bird that catches the worm,English,North America,Success,Timeliness,Those who act early gain advantages,American Proverb
+P220,Jack of all trades master of none,English,Europe,Skill,Specialization,Doing many things prevents mastery of any single skill,English Proverb
+P221,Keep your friends close and your enemies closer,Italian,Europe,Strategy,Relationships,Monitor potential threats more carefully than allies,Italian Proverb
+P222,Laugh and the world laughs with you weep and you weep alone,English,North America,Emotion,Society,People prefer happy company and avoid sad people,American Proverb
+P223,Learn to walk before you run,English,Europe,Progress,Fundamentals,Master basic skills before attempting advanced ones,English Proverb
+P224,Least said soonest mended,English,Europe,Communication,Discretion,Saying less prevents or repairs damage more quickly,English Proverb
+P225,Let the cat out of the bag,English,Europe,Secrets,Disclosure,Accidentally reveal a secret,English Proverb
+P226,Lightning never strikes twice in the same place,English,Europe,Probability,Chance,Unlikely events rarely happen in the same place twice,English Proverb
+P227,Like father like son,English,Europe,Family,Resemblance,Sons often resemble their fathers in behavior and character,English Proverb
+P228,Little strokes fell great oaks,English,Europe,Perseverance,Effort,Small repeated efforts can achieve seemingly impossible things,English Proverb
+P229,Live and let live,English,Europe,Tolerance,Acceptance,Allow others to live as they choose without interference,English Proverb
+P230,Love is blind,English,Europe,Love,Perception,Love makes people overlook faults and imperfections,English Proverb
+P231,Man does not live by bread alone,Biblical,Middle East,Life,Spirituality,Physical sustenance alone is not enough for a full life,Biblical Proverb
+P232,Man proposes God disposes,English,Europe,Fate,Planning,Human plans are ultimately subject to divine will or fate,English Proverb
+P233,Many a true word is spoken in jest,English,Europe,Truth,Humor,Jokes and humor often contain underlying truths,English Proverb
+P234,Many hands make light work,English,Europe,Cooperation,Efficiency,Sharing work among many people makes it easier for all,English Proverb
+P235,Marry in haste repent at leisure,English,Europe,Marriage,Caution,Rushing into marriage leads to long-term regret,English Proverb
+P236,Might is right,English,Europe,Power,Force,The powerful determine what is considered right or just,English Proverb
+P237,Mind your own business,English,North America,Privacy,Boundaries,Don't interfere in others' private affairs,American Proverb
+P238,Misery loves company,English,Europe,Emotion,Support,Unhappy people seek out other unhappy people,English Proverb
+P239,Money talks,English,North America,Power,Wealth,Wealth provides influence and gets attention,American Proverb
+P240,More haste less speed,English,Europe,Patience,Efficiency,Rushing too much actually slows progress,English Proverb
+P241,Necessity knows no law,English,Europe,Survival,Desperation,Desperate situations justify actions normally considered wrong,English Proverb
+P242,Never say never,English,North America,Possibility,Openness,Don't completely rule out any possibility,American Proverb
+P243,No man is an island,English,Europe,Community,Interdependence,Everyone needs connections and relationships with others,English Proverb
+P244,No news is good news,English,Europe,Communication,Optimism,Absence of bad news suggests everything is fine,English Proverb
+P245,No rest for the wicked,Biblical,Middle East,Justice,Consequences,Those who do wrong face constant troubles,Biblical Proverb
+P246,Nothing ventured nothing gained,English,Europe,Risk,Reward,Taking no risks yields no rewards or achievements,English Proverb
+P247,Oil and water don't mix,English,Europe,Compatibility,Difference,Some things or people are fundamentally incompatible,English Proverb
+P248,Old habits die hard,English,Europe,Change,Persistence,Long-standing behaviors and patterns are very difficult to change,English Proverb
+P249,Once a thief always a thief,English,Europe,Character,Permanence,People don't fundamentally change their character or nature,English Proverb
+P250,One good turn deserves another,English,Europe,Reciprocity,Kindness,Acts of kindness should be returned with similar kindness,English Proverb
+P251,One man's meat is another man's poison,English,Europe,Preference,Diversity,What benefits one person may harm another,English Proverb
+P252,One man's trash is another man's treasure,English,North America,Value,Perspective,What one person discards another may value highly,American Proverb
+P253,One swallow doesn't make a summer,Greek,Europe,Evidence,Proof,A single instance doesn't prove a general trend,Greek Proverb
+P254,Opportunity knocks but once,English,Europe,Opportunity,Timing,Opportunities are rare and fleeting so seize them,English Proverb
+P255,Patience is a virtue,English,Europe,Patience,Character,Being patient is an admirable quality,English Proverb
+P256,Penny wise pound foolish,English,Europe,Financial Wisdom,Proportion,Being careful with small amounts while wasting large amounts,English Proverb
+P257,Possession is nine-tenths of the law,English,Europe,Property,Ownership,Actually having something gives strong legal advantage,English Proverb
+P258,Power corrupts absolute power corrupts absolutely,English,Europe,Power,Morality,Having power leads to moral decay especially unlimited power,English Proverb
+P259,Prevention is better than cure,English,Europe,Health,Prevention,Avoiding problems is better than fixing them afterward,English Proverb
+P260,Procrastination is the thief of time,English,Europe,Productivity,Time,Delaying and postponing wastes valuable time,English Proverb
+P261,Put your money where your mouth is,English,North America,Action,Commitment,Back up your words with real action or investment,American Proverb
+P262,Red sky at night shepherd's delight,English,Europe,Weather,Prediction,Red sky in evening predicts good weather tomorrow,English Proverb
+P263,Revenge is a dish best served cold,French,Europe,Revenge,Patience,Delayed calculated revenge is more effective than immediate,French Proverb
+P264,See no evil hear no evil speak no evil,Japanese,Asia,Morality,Wisdom,Avoid involvement with or spreading of wrongdoing,Japanese Proverb
+P265,Seeing is believing,English,Europe,Truth,Evidence,Visual proof is the most convincing evidence,English Proverb
+P266,Seek and ye shall find,Biblical,Middle East,Search,Success,Those who actively look will discover what they seek,Biblical Proverb
+P267,Silence is golden,English,Europe,Communication,Quietness,Often not speaking is the wisest choice,English Proverb
+P268,Slow and steady wins the race,English,Europe,Perseverance,Consistency,Consistent steady effort beats hasty rushing,English Proverb
+P269,Spare the rod and spoil the child,Biblical,Middle East,Parenting,Discipline,Children need discipline to develop properly,Biblical Proverb
+P270,Speak of the devil and he shall appear,English,Europe,Coincidence,Timing,People you mention often appear unexpectedly,English Proverb
+P271,Sticks and stones may break my bones but words will never hurt me,English,North America,Resilience,Words,Physical harm is worse than verbal insults,American Proverb
+P272,Take care of the pennies and the pounds will take care of themselves,English,Europe,Financial Wisdom,Frugality,Small savings accumulate into large amounts,English Proverb
+P273,Talk is cheap,English,North America,Action,Words,Words are easy while actions are valuable and difficult,American Proverb
+P274,The best defense is a good offense,English,North America,Strategy,Aggression,Attacking prevents your opponent from attacking you,American Proverb
+P275,The best laid plans of mice and men often go awry,Scottish,Europe,Planning,Failure,Even excellent plans can fail unexpectedly,Scottish Proverb
+P276,The best things in life are free,English,North America,Value,Happiness,The most valuable things money cannot buy,American Proverb
+P277,The bigger they are the harder they fall,English,Europe,Power,Downfall,Powerful people fail more dramatically and completely,English Proverb
+P278,The calm before the storm,English,Europe,Warning,Anticipation,Unusual quiet often precedes trouble or chaos,English Proverb
+P279,The course of true love never did run smooth,English,Europe,Love,Difficulty,Romantic relationships always face obstacles and challenges,English Proverb
+P280,The cure is worse than the disease,English,Europe,Solutions,Problems,Sometimes remedies cause more harm than the original problem,English Proverb
+P281,The customer is always right,English,North America,Business,Service,Always prioritize customer satisfaction in business,American Proverb
+P282,The darkest hour is just before the dawn,English,Europe,Hope,Timing,Things reach their worst point right before improving,English Proverb
+P283,The end justifies the means,Italian,Europe,Ethics,Goals,Achieving good results justifies questionable methods,Italian Proverb
+P284,The exception proves the rule,Latin,Ancient Rome,Logic,Rules,Exceptions actually confirm that general rules exist,Latin Proverb
+P285,The eyes are the window to the soul,English,Europe,Character,Perception,Eyes reveal inner nature and true feelings,English Proverb
+P286,The first step is always the hardest,English,Europe,Beginning,Challenge,Starting something new is the most difficult part,English Proverb
+P287,The hand that rocks the cradle rules the world,English,Europe,Motherhood,Influence,Mothers who raise children shape society and future,English Proverb
+P288,The leopard cannot change his spots,Biblical,Middle East,Character,Permanence,People cannot fundamentally change their nature,Biblical Proverb
+P289,The longest journey starts with a single step,Chinese,Asia,Beginning,Progress,Great undertakings begin with small initial actions,Chinese Proverb
+P290,The more you have the more you want,English,Europe,Desire,Greed,Wealth and possessions increase rather than satisfy desire,English Proverb
+P291,The only constant is change,Greek,Europe,Change,Life,Everything in life changes constantly,Greek Proverb
+P292,The pot calling the kettle black,English,Europe,Hypocrisy,Criticism,Criticizing others for faults you yourself possess,English Proverb
+P293,The proof is in the pudding,English,Europe,Evidence,Results,Quality and truth are shown through actual results and experience,English Proverb
+P294,The spirit is willing but the flesh is weak,Biblical,Middle East,Motivation,Limitation,Good intentions exceed physical or mental ability to follow through,Biblical Proverb
+P295,The straw that broke the camel's back,Arabic,Middle East,Limits,Breaking Point,The final small addition that causes complete collapse,Arabic Proverb
+P296,The way to a man's heart is through his stomach,English,Europe,Love,Food,Good cooking wins a man's affection,English Proverb
+P297,There are none so blind as those who will not see,English,Europe,Ignorance,Willfulness,Intentional ignorance is the worst kind of blindness,English Proverb
+P298,There are two sides to every story,English,Europe,Perspective,Truth,Multiple valid viewpoints exist for any situation,English Proverb
+P299,There but for the grace of God go I,English,Europe,Gratitude,Fortune,I could easily face the same misfortunes as others,English Proverb
+P300,There is honor among thieves,English,Europe,Ethics,Loyalty,Even criminals have codes of conduct and loyalty,English Proverb
+P301,There is no smoke without fire,English,Europe,Truth,Rumor,Rumors and suspicions usually have some factual basis,English Proverb
+P302,There is safety in numbers,English,Europe,Security,Groups,Being in a group provides protection and security,English Proverb
+P303,There's more than one way to skin a cat,English,North America,Solutions,Flexibility,Multiple approaches or methods can achieve the same goal,American Proverb
+P304,There's no such thing as a free lunch,English,North America,Economics,Cost,Everything has a cost even if not immediately obvious,American Proverb
+P305,There's no time like the present,English,Europe,Action,Timing,Now is the best time to act rather than delaying,English Proverb
+P306,Third time lucky,English,Europe,Persistence,Success,Success often comes after two initial failures,English Proverb
+P307,Those who cannot remember the past are condemned to repeat it,Modern,North America,History,Learning,Forgetting history causes repetition of past mistakes,American Proverb
+P308,Time and tide wait for no man,English,Europe,Time,Urgency,Time passes regardless of anyone's readiness or wishes,English Proverb
+P309,Time flies when you're having fun,English,North America,Time,Enjoyment,Pleasant experiences make time seem to pass quickly,American Proverb
+P310,Time heals all wounds,English,Europe,Healing,Time,Emotional pain diminishes and heals with passage of time,English Proverb
+P311,Time will tell,English,Europe,Truth,Future,The truth will eventually become clear with time,English Proverb
+P312,To err is human to forgive divine,English,Europe,Forgiveness,Humanity,Making mistakes is natural while forgiving them is godly,English Proverb
+P313,To the victor go the spoils,English,North America,Victory,Reward,Winners take all the rewards and benefits,American Proverb
+P314,Tomorrow is another day,English,Europe,Hope,Future,Each new day brings new opportunities and fresh starts,English Proverb
+P315,Too little too late,English,North America,Timing,Insufficiency,Inadequate action taken after the crucial moment has passed,American Proverb
+P316,Truth is stranger than fiction,English,Europe,Reality,Surprise,Real events can be more unbelievable than imaginary ones,English Proverb
+P317,Turn the other cheek,Biblical,Middle East,Forgiveness,Pacifism,Don't retaliate when wronged respond with patience,Biblical Proverb
+P318,Two wrongs don't make a right,English,Europe,Ethics,Justice,Retaliating against wrongdoing doesn't justify your own wrongdoing,English Proverb
+P319,Variety is the spice of life,English,Europe,Diversity,Enjoyment,Diversity and change make life interesting and enjoyable,English Proverb
+P320,Virtue is its own reward,English,Europe,Morality,Satisfaction,Being virtuous is inherently satisfying regardless of external rewards,English Proverb
+P321,Walls have ears,French,Europe,Privacy,Caution,Someone might be secretly listening to your conversations,French Proverb
+P322,Waste not want not,English,Europe,Frugality,Conservation,Avoiding waste prevents future shortage and need,English Proverb
+P323,We'll cross that bridge when we come to it,English,North America,Planning,Present,Deal with problems when they actually arise not before,American Proverb
+P324,What goes up must come down,English,Europe,Physics,Inevitability,Everything that rises will eventually fall,English Proverb
+P325,What the eye doesn't see the heart doesn't grieve over,English,Europe,Ignorance,Emotion,Not knowing about problems prevents emotional distress,English Proverb
+P326,What you don't know won't hurt you,English,Europe,Ignorance,Protection,Ignorance of problems can sometimes be protective,English Proverb
+P327,What's done is done,English,Europe,Acceptance,Past,Accept past events that cannot be changed,English Proverb
+P328,What's good for the goose is good for the gander,English,Europe,Fairness,Equality,The same rules and standards should apply to everyone,English Proverb
+P329,When life gives you lemons make lemonade,English,North America,Optimism,Adversity,Make the best of bad or difficult situations,American Proverb
+P330,When one door closes another opens,English,Europe,Opportunity,Hope,Lost opportunities lead to new different opportunities,English Proverb
+P331,When poverty comes in the door love flies out the window,English,Europe,Poverty,Relationships,Financial hardship severely strains romantic relationships,English Proverb
+P332,When the going gets tough the tough get going,English,North America,Resilience,Challenge,Strong people persevere and work harder during difficulties,American Proverb
+P333,Where there's a will there's a way,English,Europe,Determination,Success,Strong determination finds methods to overcome obstacles,English Proverb
+P334,Where there's life there's hope,English,Europe,Hope,Life,As long as you're alive possibilities and hope exist,English Proverb
+P335,You can catch more flies with honey than with vinegar,English,North America,Persuasion,Kindness,Kindness and gentleness are more effective than harshness,American Proverb
+P336,You can't get blood out of a stone,English,Europe,Impossibility,Limits,You cannot extract something that doesn't exist,English Proverb
+P337,You can't have your cake and eat it too,English,Europe,Choice,Consequences,You cannot enjoy conflicting benefits simultaneously,English Proverb
+P338,You can't make a silk purse out of a sow's ear,English,Europe,Quality,Limitations,You cannot create quality from inherently poor materials,English Proverb
+P339,You can't run with the hare and hunt with the hounds,English,Europe,Loyalty,Sides,You cannot support both opposing sides simultaneously,English Proverb
+P340,You can't see the forest for the trees,English,Europe,Perspective,Details,Being too focused on details prevents seeing the whole picture,English Proverb
+P341,You can't unscramble eggs,English,North America,Irreversibility,Consequences,Some actions and changes cannot be undone,American Proverb
+P342,You must learn to walk before you can run,English,Europe,Learning,Progress,Master fundamental skills before attempting advanced ones,English Proverb
+P343,You scratch my back and I'll scratch yours,English,North America,Reciprocity,Cooperation,Exchange favors and help for mutual benefit,American Proverb
+P344,Youth is wasted on the young,English,Europe,Age,Wisdom,Young people don't appreciate their youth and vitality,English Proverb
+P345,A watched kettle never boils,English,Europe,Patience,Waiting,Watching and waiting makes time feel much longer,English Proverb
+P346,The show must go on,English,Europe,Perseverance,Entertainment,Continue despite difficulties problems or setbacks,English Proverb
+P347,Every man has his price,English,Europe,Corruption,Morality,Everyone can be bribed or bought with enough incentive,English Proverb
+P348,Fight fire with fire,English,Europe,Strategy,Retaliation,Use the same methods or tactics as your opponent,English Proverb
+P349,Keep your powder dry,English,Europe,Preparation,Readiness,Stay prepared and ready for action when needed,English Proverb
+P350,Life is what you make it,English,North America,Agency,Control,You create and shape your own life through choices,American Proverb
+P351,One man's loss is another man's gain,English,Europe,Economics,Fortune,Losses and gains are often redistributed between people,English Proverb
+P352,Practice what you preach,English,Europe,Integrity,Consistency,Live according to your own advice and teachings,English Proverb
+P353,The devil finds work for idle hands,English,Europe,Idleness,Trouble,Lack of activity and purpose leads to mischief,English Proverb
+P354,The die is cast,Latin,Ancient Rome,Decision,Commitment,The decision has been made and is now irreversible,Latin Proverb
+P355,The enemy of my enemy is my friend,Arabic,Middle East,Alliance,Strategy,Common enemies create unlikely friendships and alliances,Arabic Proverb
+P356,There is no fool like an old fool,English,Europe,Age,Foolishness,Older people who act foolishly should know better,English Proverb
+P357,There's a first time for everything,English,Europe,Experience,Novelty,Every experience has an initial occurrence,English Proverb
+P358,Things aren't always what they seem,English,Europe,Perception,Reality,Appearances often deceive and mislead,English Proverb
+P359,Think before you speak,English,Europe,Communication,Caution,Consider your words carefully before saying them,English Proverb
+P360,To know all is to forgive all,French,Europe,Understanding,Forgiveness,Complete understanding leads naturally to forgiveness,French Proverb
+P361,Two's company three's a crowd,English,Europe,Relationships,Privacy,Two people enjoy intimacy while a third intrudes,English Proverb
+P362,United we stand divided we fall,Greek,Europe,Unity,Strength,Unity provides strength while division causes weakness,Greek Proverb
+P363,Walk softly and carry a big stick,English,North America,Diplomacy,Power,Be diplomatic but maintain power and readiness,American Proverb
+P364,We are what we eat,English,Europe,Health,Diet,Our diet directly affects our physical and mental state,English Proverb
+P365,When it rains it pours,English,North America,Luck,Timing,Troubles or events tend to come all at once,American Proverb
+P366,When push comes to shove,English,North America,Crisis,Action,When a situation becomes truly critical,American Proverb
+P367,When the chips are down,English,North America,Adversity,Truth,Difficult times reveal true character and priorities,American Proverb
+P368,Where ignorance is bliss 'tis folly to be wise,English,Europe,Knowledge,Happiness,Sometimes remaining ignorant is preferable to knowing,English Proverb
+P369,You are never too old to learn,English,Europe,Learning,Age,Learning ability and opportunity have no age limit,English Proverb
+P370,You cannot get a quart into a pint pot,English,Europe,Limits,Capacity,You cannot exceed natural physical limits and capacity,English Proverb
+P371,You cannot have it both ways,English,Europe,Choice,Contradiction,You must choose between mutually exclusive options,English Proverb
+P372,You cannot make bricks without straw,English,Europe,Resources,Necessity,You need proper materials and resources to complete tasks,English Proverb
+P373,You cannot please everyone,English,Europe,Acceptance,Criticism,Universal approval and satisfaction is impossible to achieve,English Proverb
+P374,You never know what you can do till you try,English,Europe,Potential,Action,Attempting reveals your true abilities and potential,English Proverb
+P375,A new broom sweeps clean,English,Europe,Change,Leadership,New leaders make changes and improvements initially,English Proverb
+P376,A trouble shared is a trouble halved,English,Europe,Support,Sharing,Sharing problems with others reduces their burden significantly,English Proverb
+P377,Bad news travels fast,English,Europe,Communication,Negativity,Negative information spreads more quickly than positive,English Proverb
+P378,Behind every successful man is a strong woman,English,North America,Partnership,Success,Successful people often have supportive capable partners,American Proverb
+P379,Comparisons are odious,English,Europe,Judgment,Fairness,Comparing people is unfair and unpleasant,English Proverb
+P380,Desperate times call for desperate measures,English,Europe,Crisis,Action,Extreme situations require extreme extraordinary actions,English Proverb
+P381,Don't change horses in midstream,English,North America,Consistency,Stability,Don't make major changes during critical times,American Proverb
+P382,Don't cut off your nose to spite your face,English,Europe,Self-Harm,Anger,Don't harm yourself in attempts to hurt others,English Proverb
+P383,Don't get mad get even,English,North America,Revenge,Strategy,Retaliate effectively and calmly rather than emotionally,American Proverb
+P384,Don't kill the goose that lays the golden eggs,Greek,Europe,Wisdom,Greed,Don't destroy sources of ongoing benefit for immediate gain,Greek Proverb
+P385,Don't meet trouble halfway,English,Europe,Worry,Anticipation,Don't worry about or seek out future problems,English Proverb
+P386,Don't teach your grandmother to suck eggs,English,Europe,Respect,Experience,Don't presume to instruct those more experienced,English Proverb
+P387,Everyone wants to go to heaven but nobody wants to die,English,North America,Desire,Sacrifice,People want rewards without accepting necessary costs,American Proverb
+P388,Fine words butter no parsnips,English,Europe,Action,Words,Mere words without action accomplish nothing practical,English Proverb
+P389,From small beginnings come great things,Latin,Ancient Rome,Growth,Potential,Great achievements always start with small actions,Latin Proverb
+P390,Give a dog a bad name and hang him,English,Europe,Reputation,Judgment,Bad reputations are very difficult to overcome,English Proverb
+P391,Half the truth is often a whole lie,English,Europe,Truth,Deception,Partial truth can be as misleading as complete lies,English Proverb
+P392,He that is down needs fear no fall,English,Europe,Humility,Security,Those at the bottom have nothing left to lose,English Proverb
+P393,He who fights and runs away lives to fight another day,English,Europe,Strategy,Survival,Strategic retreat preserves ability to fight later,English Proverb
+P394,If a job's worth doing it's worth doing well,English,Europe,Quality,Effort,Tasks worth attempting deserve full proper effort,English Proverb
+P395,If the shoe fits wear it,English,North America,Self-Awareness,Acceptance,If criticism applies to you accept it gracefully,American Proverb
+P396,If you want a thing done well do it yourself,English,Europe,Self-Reliance,Quality,Personal action ensures proper quality and completion,English Proverb
+P397,It is better to travel hopefully than to arrive,Scottish,Europe,Journey,Destination,The journey and process matter more than the goal,Scottish Proverb
+P398,It's an ill bird that fouls its own nest,English,Europe,Loyalty,Home,Don't damage or criticize your own home or interests,English Proverb
+P399,Let well alone,English,Europe,Caution,Stability,Don't disturb or interfere with what already works,English Proverb
+P400,Life begins at forty,English,North America,Age,Beginning,Maturity and middle age bring new opportunities and freedom,American Proverb
+P401,Look after the pennies and the pounds will look after themselves,English,Europe,Financial Wisdom,Frugality,Small careful savings accumulate into large amounts,English Proverb
+P402,Make haste slowly,Latin,Ancient Rome,Balance,Efficiency,Work quickly but maintain care and quality,Latin Proverb
+P403,Manners maketh man,English,Europe,Character,Behavior,Good manners and behavior define true character,English Proverb
+P404,Murder will out,English,Europe,Truth,Justice,Serious crimes will eventually be discovered and revealed,English Proverb
+P405,Nature abhors a vacuum,Latin,Ancient Rome,Nature,Physics,Empty spaces and voids are naturally filled,Latin Proverb
+P406,Needs must when the devil drives,English,Europe,Necessity,Action,Desperate circumstances force necessary action,English Proverb
+P407,Never let the sun go down on your anger,Biblical,Middle East,Forgiveness,Emotion,Resolve conflicts and anger before day's end,Biblical Proverb
+P408,No man can serve two masters,Biblical,Middle East,Loyalty,Conflict,You cannot maintain divided or conflicting loyalties,Biblical Proverb
+P409,One hand washes the other,Latin,Ancient Rome,Cooperation,Reciprocity,Mutual assistance and cooperation benefits both parties,Latin Proverb
+P410,One volunteer is worth ten pressed men,English,Europe,Motivation,Willingness,Willing enthusiastic participants are far more valuable,English Proverb
+P411,Opportunity makes the thief,English,Europe,Crime,Temptation,Easy opportunities and temptations lead people to wrongdoing,English Proverb
+P412,Out of the mouths of babes and sucklings,Biblical,Middle East,Wisdom,Children,Children often speak profound unexpected truths,Biblical Proverb
+P413,Physician heal thyself,Biblical,Middle East,Self-Improvement,Hypocrisy,Fix your own problems before addressing others',Biblical Proverb
+P414,Poverty is not a crime,Russian,Europe,Justice,Poverty,Being poor is not morally wrong or criminal,Russian Proverb
+P415,Put your best foot forward,English,Europe,Effort,Presentation,Make your very best effort and impression,English Proverb
+P416,Respect is earned not given,Modern,Global,Respect,Achievement,Respect must be deserved through actions not automatically given,Contemporary Saying
+P417,Self-praise is no recommendation,English,Europe,Humility,Modesty,Praising yourself is not credible or convincing,English Proverb
+P418,Set a thief to catch a thief,English,Europe,Strategy,Experience,Use similar tactics and experience to combat problems,English Proverb
+P419,Silence gives consent,Latin,Ancient Rome,Agreement,Communication,Not objecting to something implies agreement with it,Latin Proverb
+P420,Six of one and half a dozen of the other,English,Europe,Equality,Choice,Two options are essentially equivalent in value,English Proverb
+P421,Something is better than nothing,English,Europe,Gratitude,Value,Any amount or help has value compared to none,English Proverb
+P422,Speech is silver but silence is golden,English,Europe,Communication,Wisdom,Silence is often more valuable and wise than speaking,English Proverb
+P423,Take the rough with the smooth,English,Europe,Acceptance,Balance,Accept both difficult and pleasant aspects of life,English Proverb
+P424,Tell the truth and shame the devil,English,Europe,Honesty,Courage,Be honest and truthful despite potential consequences,English Proverb
+P425,That's the way the cookie crumbles,English,North America,Acceptance,Fate,Accept how things turn out even if disappointing,American Proverb
+P426,The acorn doesn't fall far from the tree,English,Europe,Family,Resemblance,Children closely resemble their parents,English Proverb
+P427,The cobbler always wears the worst shoes,English,Europe,Irony,Neglect,Professionals often neglect their own area of expertise,English Proverb
+P428,The devil looks after his own,English,Europe,Evil,Fortune,Bad or immoral people often seem to prosper,English Proverb
+P429,The bamboo that bends is stronger than the oak that resists,Japanese,Asia,Flexibility,Strength,Adaptability and flexibility are forms of strength,Japanese Proverb
+P430,A closed mouth catches no flies,Spanish,Europe,Discretion,Wisdom,Staying silent avoids trouble and problems,Spanish Proverb
+P431,The crow thinks its own bird fairest,English,Europe,Bias,Perception,Everyone thinks their own is best regardless of reality,English Proverb
+P432,Don't count your chickens until they cross the road,English,North America,Caution,Planning,Don't assume outcomes until fully realized,American Proverb
+P433,A good beginning makes a good ending,English,Europe,Success,Foundation,How you start determines how you finish,English Proverb
+P434,He who slings mud loses ground,English,North America,Integrity,Reputation,Attacking others damages your own standing,American Proverb
+P435,The pitcher goes often to the well but is broken at last,English,Europe,Risk,Limits,Repeated risks eventually lead to failure,English Proverb
+P436,Clothes don't make the monk but they open doors,Modern,Global,Appearance,Opportunity,Presentation creates opportunities even if it doesn't define character,Contemporary Saying
+P437,A rolling stone gathers momentum,Modern,North America,Progress,Action,Continuous action builds force and effectiveness,American Proverb
+P438,The squeaking gate hangs longest,English,Europe,Persistence,Survival,Those who complain or persist often last the longest,English Proverb
+P439,Better a live dog than a dead lion,Biblical,Middle East,Survival,Reality,Being alive in humble circumstances beats noble death,Biblical Proverb
+P440,The moon is not shamed by the barking of dogs,Chinese,Asia,Dignity,Criticism,Great things are unaffected by petty criticism,Chinese Proverb
+P441,One rotten apple spoils the barrel,English,Europe,Influence,Contamination,One bad element can corrupt an entire group,English Proverb
+P442,The fish rots from the head down,Turkish,Middle East,Leadership,Corruption,Organizations fail due to leadership problems first,Turkish Proverb
+P443,You can't soar with eagles if you scratch with turkeys,English,North America,Ambition,Association,Your companions limit or enable your potential,American Proverb
+P444,A bird is known by its song and a man by his talk,Russian,Europe,Character,Speech,Speech reveals true character and nature,Russian Proverb
+P445,The gem cannot be polished without friction,Chinese,Asia,Growth,Difficulty,Improvement requires challenge and hardship,Chinese Proverb
+P446,A single arrow is easily broken but not ten in a bundle,Japanese,Asia,Unity,Strength,Unity provides strength that individuals lack,Japanese Proverb
+P447,Don't dig your grave with your own knife and fork,English,Europe,Health,Self-Harm,Don't destroy yourself through poor habits,English Proverb
+P448,The cheapest is always the most expensive,Swedish,Europe,Quality,Value,Low quality items cost more in the long run,Swedish Proverb
+P449,If you chase two rabbits you will lose them both,Russian,Europe,Focus,Priorities,Pursuing multiple goals simultaneously leads to failure,Russian Proverb
+P450,The tongue has no bones but it breaks bones,Greek,Europe,Words,Power,Words can cause serious harm despite being intangible,Greek Proverb
+P451,A ship in harbor is safe but that's not what ships are for,English,North America,Risk,Purpose,Avoiding all risk means not fulfilling your purpose,American Proverb
+P452,The tail cannot wag the dog,English,Europe,Power,Order,Minor elements cannot control major ones,English Proverb
+P453,Don't bark if you can't bite,English,North America,Action,Credibility,Don't threaten unless you can follow through,American Proverb
+P454,Even a hare will bite when it is cornered,Korean,Asia,Desperation,Defense,Even gentle creatures become dangerous when threatened,Korean Proverb
+P455,The loudest drum has nothing in it,English,Europe,Substance,Appearance,Those who boast most often have least to offer,English Proverb
+P456,Better to be alone than in bad company,French,Europe,Relationships,Solitude,Isolation is preferable to negative associations,French Proverb
+P457,You cannot cross the sea merely by standing and staring at the water,Indian,Asia,Action,Dreams,Achievement requires action not just contemplation,Indian Proverb
+P458,The mouse that has but one hole is quickly taken,Italian,Europe,Preparation,Options,Having alternatives and backup plans ensures survival,Italian Proverb
+P459,The tree remembers what the axe forgets,African,Africa,Memory,Harm,Victims remember harm that perpetrators dismiss,African Proverb
+P460,A coward dies a thousand deaths a brave man only once,English,Europe,Courage,Fear,Fear causes more suffering than actual danger,English Proverb
+P461,The ax forgets but the tree remembers,African,Africa,Justice,Memory,Those harmed remember while those who harm forget,African Proverb
+P462,The frog in the well knows nothing of the great ocean,Japanese,Asia,Perspective,Limitation,Limited experience creates limited understanding,Japanese Proverb
+P463,You can't wake someone who is pretending to be asleep,Navajo,North America,Willfulness,Ignorance,You cannot convince those who refuse to understand,Native American Proverb
+P464,The wise man bridges the gap with his tongue,African,Africa,Communication,Conflict Resolution,Words and diplomacy can resolve conflicts,African Proverb
+P465,A full cup must be carried steadily,English,Europe,Success,Caution,Abundance and success require careful management,English Proverb
+P466,The wolf changes his coat but not his disposition,Spanish,Europe,Character,Permanence,External changes don't alter fundamental nature,Spanish Proverb
+P467,Don't sell the bear's skin before you've caught the bear,French,Europe,Caution,Premature Action,Don't profit from or plan around uncertain outcomes,French Proverb
+P468,He who would climb the ladder must begin at the bottom,English,Europe,Progress,Hierarchy,Advancement requires starting with fundamentals,English Proverb
+P469,The river that forgets its source will dry up,African,Africa,Gratitude,Origins,Forgetting your roots leads to failure,African Proverb
+P470,When spider webs unite they can tie up a lion,Ethiopian,Africa,Cooperation,Power,Collective action achieves what individuals cannot,Ethiopian Proverb
+P471,The dog that trots about finds a bone,English,Europe,Effort,Reward,Active effort leads to opportunities and rewards,English Proverb
+P472,A single bracelet does not jingle,Congolese,Africa,Community,Cooperation,Achievement and joy require multiple participants,Congolese Proverb
+P473,Where water has been the grass will grow again,African,Africa,Recovery,Hope,Resources and care enable renewal and growth,African Proverb
+P474,The goat eats where it is tethered,African,Africa,Acceptance,Circumstances,You must work with the situation you're given,African Proverb
+P475,A wise man changes his mind a fool never will,Spanish,Europe,Wisdom,Flexibility,Intelligence includes willingness to reconsider positions,Spanish Proverb
+P476,Better a diamond with a flaw than a pebble without one,Chinese,Asia,Quality,Value,Flawed excellence exceeds perfect mediocrity,Chinese Proverb
+P477,The scaffold is the altar of tyranny,French,Europe,Justice,Oppression,Execution and violence are tools of unjust power,French Proverb
+P478,Life is not a continuum of pleasant choices but of inevitable problems,Modern,Global,Reality,Challenge,Life consists of managing difficulties not enjoying ease,Contemporary Saying
+P479,The bee is more honored than other animals not because she labors but because she labors for others,Greek,Europe,Service,Value,Working for others' benefit earns respect,Greek Proverb
+P480,One who plants a garden plants happiness,Chinese,Asia,Creation,Joy,Creating beauty and growth brings personal fulfillment,Chinese Proverb
+P481,A clever person turns great troubles into little ones and little ones into none at all,Chinese,Asia,Problem-Solving,Wisdom,Intelligence minimizes and eliminates difficulties,Chinese Proverb
+P482,The fire you kindle for your enemy often burns yourself more than them,Chinese,Asia,Revenge,Consequences,Seeking revenge often harms you more than your target,Chinese Proverb
+P483,A man who uses force is afraid of reasoning,Kenyan,Africa,Violence,Weakness,Those who resort to violence lack confidence in their arguments,Kenyan Proverb
+P484,Cross the river in a crowd and the crocodile won't eat you,African,Africa,Safety,Numbers,Group action provides protection from danger,African Proverb
+P485,The wealth which enslaves the owner isn't wealth,Yoruba,Africa,Materialism,Freedom,Possessions that control you have negative value,African Proverb
+P486,Show me your friend and I will show you your character,Russian,Europe,Relationships,Influence,Your associates reveal your true nature,Russian Proverb
+P487,The eye cannot see itself,Albanian,Europe,Self-Awareness,Limitation,Self-perception is inherently limited and flawed,Albanian Proverb
+P488,What the fool does in the end the wise man does at the beginning,Spanish,Europe,Wisdom,Timing,Intelligent people act early while fools delay,Spanish Proverb
+P489,You never step in the same river twice,Greek,Europe,Change,Impermanence,Everything is constantly changing and evolving,Greek Proverb
+P490,A kind word warms for three winters,Chinese,Asia,Kindness,Duration,Small kindnesses have lasting powerful effects,Chinese Proverb
+P491,The tallest trees catch the most wind,Chinese,Asia,Success,Challenge,Achievement and prominence attract criticism and difficulty,Chinese Proverb
+P492,A journey of a thousand miles must begin where you stand,Chinese,Asia,Action,Beginning,Start from your current position not an ideal one,Chinese Proverb
+P493,If you bow at all bow low,Chinese,Asia,Respect,Thoroughness,Do things completely or not at all,Chinese Proverb
+P494,The reputation of a thousand years may be undermined by the conduct of one hour,Japanese,Asia,Reputation,Fragility,Long-built reputations can be destroyed instantly,Japanese Proverb
+P495,A society grows great when old men plant trees whose shade they know they shall never sit in,Greek,Europe,Legacy,Selflessness,True greatness involves sacrificing for future generations,Greek Proverb
+P496,When eating bamboo sprouts remember the man who planted them,Chinese,Asia,Gratitude,Memory,Remember and honor those who provided for you,Chinese Proverb
+P497,The best time for planning a voyage is when you're on dry land,Chinese,Asia,Preparation,Timing,Plan carefully before beginning difficult undertakings,Chinese Proverb
+P498,Darkness cannot drive out darkness only light can do that,Modern,North America,Peace,Method,Negativity must be countered with positivity not more negativity,American Proverb
+P499,The person who removes a mountain begins by carrying away small stones,Chinese,Asia,Perseverance,Progress,Great achievements happen through small consistent efforts,Chinese Proverb
+P500,Do not protect yourself by a fence but rather by your friends,Czech,Europe,Relationships,Security,Relationships provide better protection than barriers,Czech Proverb
