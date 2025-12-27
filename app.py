@@ -139,5 +139,6 @@ st.subheader(f"Results ({len(df)})")
 if df.empty:
     st.warning("No matching proverbs found.")
 else:
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width='stretch')
+
 # ---------------------------
